@@ -15,7 +15,7 @@ ideal for immersive audio experiences.
 Additionaly it adds,
 Un-Age Processing: Reverses the age-based curve to restore high frequencies and attenuate lows for a "younger" sound perception.
 VST3 Compatibility: Built with the Steinberg VST3 SDK for seamless integration with major DAWs (e.g., Ableton Live, FL Studio, Reaper).
-Cross-Platform: Supports Windows, macOS, and Linux, built with JUCE 8.
+ 
 
 Relatively Low CPU Usage: Optimized for real-time audio processing with smoothed parameter changes to avoid clicks.
 
@@ -48,7 +48,7 @@ Example:markdown
 Building from SourceTo build GGGain from source, you need:PrerequisitesJUCE 8: Download from juce.com or clone the JUCE GitHub repository.
 Steinberg VST3 SDK: Obtain from Steinberg Developer.
 CMake: For project configuration.
-A C++ Compiler: Visual Studio (Windows), Xcode (macOS), or GCC (Linux).
+A C++ Compiler: Visual Studio (Windows) 
 Git: To clone the repository.
 
 StepsClone the Repository:bash
