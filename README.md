@@ -1,9 +1,12 @@
 GGainPlus is a professional aspirant audio plugin designed for precise gain control and psychoacoustic enhancement, 
 featuring age-based loudness modeling and tactile "feel" sub-harmonic generation. Developed by William Ashley, 
 this plugin is perfect for audio engineers, music producers, and developers looking to enhance their audio processing
-workflows with a versatile VST3 plugin built using JUCE 8. Keywords: Audio Plugin, VST3, JUCE 8, Psychoacoustic Processing,
-Gain Control, Sub-Harmonic Generation, Music Production, Audio Engineering, William AshleyTable of ContentsFeatures (#features)
+workflows with a versatile VST3 plugin built using JUCE 8. 
 
+#Keywords: Audio Plugin, VST3, JUCE 8, Psychoacoustic Processing,
+Gain Control, Sub-Harmonic Generation, Music Production, Audio Engineering, William AshleyTable of ContentsFeatures 
+
+(#features)
 Features GGGain's Gain Control: Smooth, high-quality gain adjustment from -36 dB to +24 dB; as well as,
 Age-Based Loudness Modeling: Simulates age-related hearing loss with low-frequency boost and high-frequency cut,
 adjustable from 0 to 100 years. Also, Tactile Feel Enhancement: Adds a 40Hz sub-harmonic for enhanced tactile sensation, 
