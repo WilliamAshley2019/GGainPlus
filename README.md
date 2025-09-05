@@ -93,11 +93,19 @@ ContactGitHub: williamashley2019
 
 About the DeveloperWilliam Ashley is a passionate audio plugin developer and music technology enthusiast. 
 With expertise in C++, JUCE, and audio DSP, William creates innovative tools for music production. 
-Follow his work on:GitHub for open-source projects.  https://github.com/williamashley2019
+
+Follow his work on:
+GitHub for open-source projects.  https://github.com/williamashley2019
+
 Portfolio https://12264447666william.wixsite.com/williamashley for professional showcases.
+
 Medium  https://medium.com/@12264447666.williamashley for audio programming insights.
+
 YouTube https://www.youtube.com/@WilliamAshleyOnline  for tutorials and demos.
-You can support me and my audio projects through https://buymeacoffee.com/williamashley  or getting involved in development.
+
+You can support me and my audio projects through https://buymeacoffee.com/williamashley sharing this project with others 
+or getting involved in development.
+
 Feel free to provide any suggestions for upgrades to the plugins or just provide feedback on your experiences with them
 
 
