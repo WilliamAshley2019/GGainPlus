@@ -17,8 +17,7 @@ Cross-Platform: Supports Windows, macOS, and Linux, built with JUCE 8.
 Relatively Low CPU Usage: Optimized for real-time audio processing with smoothed parameter changes to avoid clicks.
 
 "GGainPlus brings a unique blend of psychoacoustic modeling and tactile enhancement to your audio projects." — William Ashley :)
-InstallationDownload the Plugin:Visit the Releases page to download the latest VST3 plugin for your platform.
-
+InstallationDownload the Plugin: The Alpha VST3 plugin is tested on windows 11 there is no folder structure currently. See it in the list.
 Alternatively, build from source (see Building from Source (#building-from-source)). The four JUCE files for JUCE 8.09 are provided.
 It was built using Visual Studio Community 2022 ~ V17 on windows 11 24h2.
 
